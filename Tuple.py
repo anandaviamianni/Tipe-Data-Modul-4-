@@ -1,0 +1,7 @@
+tuple1 = (123,222,278)
+tuple2 = ('FRI','FKB', 'FIT','FIF')
+tuple3 = (["DASPRO","EAD","BPAD"],["MANPROSI","GARTEK","MARKETING"])
+print("Isi tuple1 :", tuple1)
+print("Isi tuple2 :", tuple2)
+print("Isi tuple3 :", tuple3)
+print("Index ke-1 pada tuple3 :",tuple3[1])
